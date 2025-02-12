@@ -1,0 +1,11 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# test
+/test*
+test.py
+.pytest_cache
+
+/*.egg-info
+/build
